@@ -11,7 +11,7 @@ git clone https://github.com/PX4/px4_ros_com.git
 git clone https://github.com/NOKOV-MOCAP/vrpn_client_ros.git
 ```
 同样git clone本包，全部装完如下所示：
-![相对路径](.\picutre\1.png "所有包")
+![图片1](https://github.com/Zhouxiang1027/Nokov_To_Px4/blob/main/picutre/1.png "所有包")
 ## 2.配置相关参数后编译
 首先对本包config/params.yaml的参数配置
 ```
