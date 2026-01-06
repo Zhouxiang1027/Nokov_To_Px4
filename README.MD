@@ -14,6 +14,7 @@ git clone https://github.com/NOKOV-MOCAP/vrpn_client_ros.git
 <p align="center">
   <img src="picutre/1.png" />
 </p> 
+
 ## 2.配置相关参数后编译
 首先对本包config/params.yaml的参数配置
 ```
@@ -51,10 +52,12 @@ ros2 launch nokov_to_px4 run2.launch.py nokov_topic:=***** px4_topic:=*****
 <p align="center">
   <img src="picutre/2.png" />
 </p> 
+
 订阅飞机里程计看到数据与动捕数据一致：
 <p align="center">
   <img src="picutre/3.png" />
 </p> 
+
 ## 4.作者
 <font size=3>Xzhou </font>
  homepage [Github](https://github.com/Zhouxiang1027) / [Gitee](https://gitee.com/Xzhou9207)
