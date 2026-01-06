@@ -1,0 +1,4 @@
+/nokov_to_px4:
+  ros__parameters:
+    nokov_topic: /px/px4
+    px4_topic: /fmu/in/vehicle_visual_odometry
