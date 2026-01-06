@@ -11,7 +11,7 @@ git clone https://github.com/PX4/px4_ros_com.git
 git clone https://github.com/NOKOV-MOCAP/vrpn_client_ros.git
 ```
 同样git clone本包，全部装完如下所示：
-![相对路径](.\\picutre\\1.png "所有包")
+![相对路径](.\picutre\1.png "所有包")
 ## 2.配置相关参数后编译
 首先对本包config/params.yaml的参数配置
 ```
@@ -46,9 +46,9 @@ ros2 launch nokov_to_px4 run2.launch.py nokov_topic:=***** px4_topic:=*****
 其中*****为话题名
 ```
 运行结果如下：
-![相对路径](.\\picutre\\2.png "运行结果")
+![相对路径](.\picutre\2.png "运行结果")
 订阅飞机里程计看到数据与动捕数据一致：
-![相对路径](.\\picutre\\3.png "飞机数据")
+![相对路径](.\picutre\3.png "飞机数据")
 
 ## 4.作者
 <font size=3>Xzhou </font>
