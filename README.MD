@@ -46,9 +46,9 @@ ros2 launch nokov_to_px4 run2.launch.py nokov_topic:=***** px4_topic:=*****
 其中*****为话题名
 ```
 运行结果如下：
-![相对路径](.\picutre\2.png "运行结果")
+![图片2](https://github.com/Zhouxiang1027/Nokov_To_Px4/blob/main/picutre/2.png "运行结果")
 订阅飞机里程计看到数据与动捕数据一致：
-![相对路径](.\picutre\3.png "飞机数据")
+![图片3](https://github.com/Zhouxiang1027/Nokov_To_Px4/blob/main/picutre/3.png "飞机数据")
 
 ## 4.作者
 <font size=3>Xzhou </font>
